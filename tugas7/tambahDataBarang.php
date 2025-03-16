@@ -1,8 +1,8 @@
 <?php
 // Koneksi ke database
 $servername = "127.0.0.1";
-$username = "root"; // Ganti dengan username database Anda
-$password = ""; // Ganti dengan password database Anda
+$username = "root"; 
+$password = ""; 
 $dbname = "datalsp";
 
 // Buat koneksi
